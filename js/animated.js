@@ -119,7 +119,7 @@ $(document).ready(function() {
 
 		jQuery(document).ready(function() {
 			jQuery('.animate-80').addClass("hidden").viewportChecker({
-			    classToAdd: 'visible animated-1-5s fadeInDown-60',
+			    classToAdd: 'visible animated-1-5s fadeInDown-120',
 			    offset: 0
 			   });
 		});
