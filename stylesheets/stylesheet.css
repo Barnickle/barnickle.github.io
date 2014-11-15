@@ -94,6 +94,13 @@ header h2 {
   margin: 0 auto;
 }
 
+.inner2 {
+  width: 220px;
+  border: 1px solid #B3B2B2;
+  padding: 30px;
+  margin: 20px;
+}
+
 #container .inner img {
   max-width: 100%;
 }
